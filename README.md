@@ -1,6 +1,6 @@
 # hello
 <h1>
-Hello i'm monia but call me sofia and i'm pyscopath and i have a cat called lio and i love bikes and drinking blood
+
 </h1>
 <h2>
 </h2>
