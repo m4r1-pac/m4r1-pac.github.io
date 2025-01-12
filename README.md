@@ -14,9 +14,9 @@ we'll start soon posting a lot of cources about EHTICAL HACKING & CYBER SECURITY
 <h5>
 so please keep in note that if we want and this is a disclaimre
 </h5>
-<h6>
+<h4>
   and please keep a note that will this is only for edecationl purporses only
-</h6>
+</h4>
 <picture>
   
 </picture>
